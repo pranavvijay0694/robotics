@@ -38,7 +38,7 @@ Adafruit_ADXL345_Unified accel = Adafruit_ADXL345_Unified(12345);
 void displaySensorDetails(void)
 {
   sensor_t sensor;
-  accel.getSensor(&sensor);
+  accel.getSensor(& sensor);
   Serial.println("------------------------------------");
   Serial.print  ("Sensor:       "); Serial.println(sensor.name);
   Serial.print  ("Driver Ver:   "); Serial.println(sensor.version);
