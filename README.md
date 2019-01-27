@@ -1,8 +1,6 @@
 ## Welcome to WORK SHOP
-
-You can use the [editor on GitHub](https://github.com/pranavvijay0694/robotics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ARDUINO
+It is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
 
 ### Markdown
 
