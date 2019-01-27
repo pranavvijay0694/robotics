@@ -21,6 +21,7 @@ void loop() {
   digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
 }
+```
 
 ### Jekyll Themes
 
