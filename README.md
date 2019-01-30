@@ -5,7 +5,7 @@
 
 ## Blinking  LED
 
-![My large image](robotics/ExampleCircuit_bb.png)
+![LED](robotics/ExampleCircuit_bb.png)
 
 
 
